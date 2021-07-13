@@ -5,7 +5,7 @@
 
 
 import pandas as pd
-df=pd.read_csv("mot2.csv")
+df=pd.read_csv("mot2.csv") #change "mot2.csv" to the desired csv file name (to reference data structure, this file is included in repository)
 
 
 # In[2]:
