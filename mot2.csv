@@ -1,0 +1,365 @@
+Depth,Name,Statistic,#Cells
+,Specimen_001_apc_003.fcs,,10000
+> ,Specimen_001_apc_003.fcs/live,77.2,7720
+> > ,Specimen_001_apc_003.fcs/live/BFP+,0.039,3
+> > > ,Specimen_001_apc_003.fcs/live/BFP+,43476,
+> > > ,Specimen_001_apc_003.fcs/live/BFP+,379,
+> > > ,Specimen_001_apc_003.fcs/live/BFP+,115574,
+> > > ,Specimen_001_apc_003.fcs/live/BFP+,383,
+> > > ,Specimen_001_apc_003.fcs/live/BFP+,81368,
+> > > ,Specimen_001_apc_003.fcs/live/BFP+,343,
+> > > ,"Specimen_001_apc_003.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0,0
+> > > ,"Specimen_001_apc_003.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",33.3,1
+> > > ,"Specimen_001_apc_003.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",66.7,2
+> > > ,"Specimen_001_apc_003.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0,0
+,Specimen_001_ctrl_001.fcs,,10000
+> ,Specimen_001_ctrl_001.fcs/live,79.2,7916
+> > ,Specimen_001_ctrl_001.fcs/live/BFP+,0.051,4
+> > > ,Specimen_001_ctrl_001.fcs/live/BFP+,673,
+> > > ,Specimen_001_ctrl_001.fcs/live/BFP+,291,
+> > > ,Specimen_001_ctrl_001.fcs/live/BFP+,1462,
+> > > ,Specimen_001_ctrl_001.fcs/live/BFP+,353,
+> > > ,Specimen_001_ctrl_001.fcs/live/BFP+,427,
+> > > ,Specimen_001_ctrl_001.fcs/live/BFP+,284,
+> > > ,"Specimen_001_ctrl_001.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0,0
+> > > ,"Specimen_001_ctrl_001.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",25,1
+> > > ,"Specimen_001_ctrl_001.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",50,2
+> > > ,"Specimen_001_ctrl_001.fcs/live/BFP+/Q4: APC-A- , FITC-A-",25,1
+,Specimen_001_fitc_002.fcs,,10000
+> ,Specimen_001_fitc_002.fcs/live,70.1,7010
+> > ,Specimen_001_fitc_002.fcs/live/BFP+,0.014,1
+> > > ,Specimen_001_fitc_002.fcs/live/BFP+,355,
+> > > ,Specimen_001_fitc_002.fcs/live/BFP+,654,
+> > > ,Specimen_001_fitc_002.fcs/live/BFP+,355,
+> > > ,Specimen_001_fitc_002.fcs/live/BFP+,654,
+> > > ,Specimen_001_fitc_002.fcs/live/BFP+,355,
+> > > ,Specimen_001_fitc_002.fcs/live/BFP+,654,
+> > > ,"Specimen_001_fitc_002.fcs/live/BFP+/Q1: APC-A- , FITC-A+",100,1
+> > > ,"Specimen_001_fitc_002.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",0,0
+> > > ,"Specimen_001_fitc_002.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",0,0
+> > > ,"Specimen_001_fitc_002.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0,0
+,Specimen_001_sbfp_1_026.fcs,,287011
+> ,Specimen_001_sbfp_1_026.fcs/live,62.1,178193
+> > ,Specimen_001_sbfp_1_026.fcs/live/BFP+,1.89,3370
+> > > ,Specimen_001_sbfp_1_026.fcs/live/BFP+,7097,
+> > > ,Specimen_001_sbfp_1_026.fcs/live/BFP+,460,
+> > > ,Specimen_001_sbfp_1_026.fcs/live/BFP+,10340,
+> > > ,Specimen_001_sbfp_1_026.fcs/live/BFP+,566,
+> > > ,Specimen_001_sbfp_1_026.fcs/live/BFP+,8117,
+> > > ,Specimen_001_sbfp_1_026.fcs/live/BFP+,434,
+> > > ,"Specimen_001_sbfp_1_026.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.15,5
+> > > ,"Specimen_001_sbfp_1_026.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",56.4,1899
+> > > ,"Specimen_001_sbfp_1_026.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",43.3,1460
+> > > ,"Specimen_001_sbfp_1_026.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.18,6
+,Specimen_001_sbfp_2_027.fcs,,217961
+> ,Specimen_001_sbfp_2_027.fcs/live,64.3,140075
+> > ,Specimen_001_sbfp_2_027.fcs/live/BFP+,1.83,2568
+> > > ,Specimen_001_sbfp_2_027.fcs/live/BFP+,6800,
+> > > ,Specimen_001_sbfp_2_027.fcs/live/BFP+,465,
+> > > ,Specimen_001_sbfp_2_027.fcs/live/BFP+,9974,
+> > > ,Specimen_001_sbfp_2_027.fcs/live/BFP+,577,
+> > > ,Specimen_001_sbfp_2_027.fcs/live/BFP+,7534,
+> > > ,Specimen_001_sbfp_2_027.fcs/live/BFP+,436,
+> > > ,"Specimen_001_sbfp_2_027.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.12,3
+> > > ,"Specimen_001_sbfp_2_027.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",55.3,1419
+> > > ,"Specimen_001_sbfp_2_027.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",44.5,1142
+> > > ,"Specimen_001_sbfp_2_027.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.16,4
+,Specimen_001_sbfp_3_028.fcs,,75508
+> ,Specimen_001_sbfp_3_028.fcs/live,56.8,42896
+> > ,Specimen_001_sbfp_3_028.fcs/live/BFP+,1.73,741
+> > > ,Specimen_001_sbfp_3_028.fcs/live/BFP+,8598,
+> > > ,Specimen_001_sbfp_3_028.fcs/live/BFP+,509,
+> > > ,Specimen_001_sbfp_3_028.fcs/live/BFP+,12968,
+> > > ,Specimen_001_sbfp_3_028.fcs/live/BFP+,627,
+> > > ,Specimen_001_sbfp_3_028.fcs/live/BFP+,10457,
+> > > ,Specimen_001_sbfp_3_028.fcs/live/BFP+,472,
+> > > ,"Specimen_001_sbfp_3_028.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.13,1
+> > > ,"Specimen_001_sbfp_3_028.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",62.8,465
+> > > ,"Specimen_001_sbfp_3_028.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",37.1,275
+> > > ,"Specimen_001_sbfp_3_028.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0,0
+,Specimen_001_untrans_004.fcs,,10000
+> ,Specimen_001_untrans_004.fcs/live,61.4,6138
+> > ,Specimen_001_untrans_004.fcs/live/BFP+,2.83,174
+> > > ,Specimen_001_untrans_004.fcs/live/BFP+,16724,
+> > > ,Specimen_001_untrans_004.fcs/live/BFP+,669,
+> > > ,Specimen_001_untrans_004.fcs/live/BFP+,21801,
+> > > ,Specimen_001_untrans_004.fcs/live/BFP+,768,
+> > > ,Specimen_001_untrans_004.fcs/live/BFP+,18933,
+> > > ,Specimen_001_untrans_004.fcs/live/BFP+,636,
+> > > ,"Specimen_001_untrans_004.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0,0
+> > > ,"Specimen_001_untrans_004.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",85.6,149
+> > > ,"Specimen_001_untrans_004.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",14.4,25
+> > > ,"Specimen_001_untrans_004.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0,0
+,Specimen_001_0-500_1_008.fcs,,233318
+> ,Specimen_001_0-500_1_008.fcs/live,64.5,150561
+> > ,Specimen_001_0-500_1_008.fcs/live/BFP+,2.05,3086
+> > > ,Specimen_001_0-500_1_008.fcs/live/BFP+,12659,
+> > > ,Specimen_001_0-500_1_008.fcs/live/BFP+,1233,
+> > > ,Specimen_001_0-500_1_008.fcs/live/BFP+,18481,
+> > > ,Specimen_001_0-500_1_008.fcs/live/BFP+,1446,
+> > > ,Specimen_001_0-500_1_008.fcs/live/BFP+,14954,
+> > > ,Specimen_001_0-500_1_008.fcs/live/BFP+,1164,
+> > > ,"Specimen_001_0-500_1_008.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.032,1
+> > > ,"Specimen_001_0-500_1_008.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",99.7,3077
+> > > ,"Specimen_001_0-500_1_008.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",0.26,8
+> > > ,"Specimen_001_0-500_1_008.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0,0
+,Specimen_001_0-500_2_009.fcs,,229276
+> ,Specimen_001_0-500_2_009.fcs/live,65.2,149499
+> > ,Specimen_001_0-500_2_009.fcs/live/BFP+,1.1,1638
+> > > ,Specimen_001_0-500_2_009.fcs/live/BFP+,8240,
+> > > ,Specimen_001_0-500_2_009.fcs/live/BFP+,608,
+> > > ,Specimen_001_0-500_2_009.fcs/live/BFP+,12387,
+> > > ,Specimen_001_0-500_2_009.fcs/live/BFP+,725,
+> > > ,Specimen_001_0-500_2_009.fcs/live/BFP+,9167,
+> > > ,Specimen_001_0-500_2_009.fcs/live/BFP+,568,
+> > > ,"Specimen_001_0-500_2_009.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.24,4
+> > > ,"Specimen_001_0-500_2_009.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",76.9,1259
+> > > ,"Specimen_001_0-500_2_009.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",22.8,373
+> > > ,"Specimen_001_0-500_2_009.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.12,2
+,Specimen_001_0-500_3_010.fcs,,284058
+> ,Specimen_001_0-500_3_010.fcs/live,63.4,179961
+> > ,Specimen_001_0-500_3_010.fcs/live/BFP+,1.25,2243
+> > > ,Specimen_001_0-500_3_010.fcs/live/BFP+,6152,
+> > > ,Specimen_001_0-500_3_010.fcs/live/BFP+,474,
+> > > ,Specimen_001_0-500_3_010.fcs/live/BFP+,9322,
+> > > ,Specimen_001_0-500_3_010.fcs/live/BFP+,561,
+> > > ,Specimen_001_0-500_3_010.fcs/live/BFP+,6588,
+> > > ,Specimen_001_0-500_3_010.fcs/live/BFP+,445,
+> > > ,"Specimen_001_0-500_3_010.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.089,2
+> > > ,"Specimen_001_0-500_3_010.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",58.1,1303
+> > > ,"Specimen_001_0-500_3_010.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",41.5,930
+> > > ,"Specimen_001_0-500_3_010.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.36,8
+,Specimen_001_1-240_1_005.fcs,,59937
+> ,Specimen_001_1-240_1_005.fcs/live,59.9,35931
+> > ,Specimen_001_1-240_1_005.fcs/live/BFP+,1.99,714
+> > > ,Specimen_001_1-240_1_005.fcs/live/BFP+,12710,
+> > > ,Specimen_001_1-240_1_005.fcs/live/BFP+,554,
+> > > ,Specimen_001_1-240_1_005.fcs/live/BFP+,17946,
+> > > ,Specimen_001_1-240_1_005.fcs/live/BFP+,606,
+> > > ,Specimen_001_1-240_1_005.fcs/live/BFP+,14732,
+> > > ,Specimen_001_1-240_1_005.fcs/live/BFP+,543,
+> > > ,"Specimen_001_1-240_1_005.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0,0
+> > > ,"Specimen_001_1-240_1_005.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",77.2,551
+> > > ,"Specimen_001_1-240_1_005.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",22.8,163
+> > > ,"Specimen_001_1-240_1_005.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0,0
+,Specimen_001_1-240_2_006.fcs,,46933
+> ,Specimen_001_1-240_2_006.fcs/live,59.9,28115
+> > ,Specimen_001_1-240_2_006.fcs/live/BFP+,1.2,337
+> > > ,Specimen_001_1-240_2_006.fcs/live/BFP+,9252,
+> > > ,Specimen_001_1-240_2_006.fcs/live/BFP+,387,
+> > > ,Specimen_001_1-240_2_006.fcs/live/BFP+,15101,
+> > > ,Specimen_001_1-240_2_006.fcs/live/BFP+,464,
+> > > ,Specimen_001_1-240_2_006.fcs/live/BFP+,10588,
+> > > ,Specimen_001_1-240_2_006.fcs/live/BFP+,388,
+> > > ,"Specimen_001_1-240_2_006.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.59,2
+> > > ,"Specimen_001_1-240_2_006.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",45.4,153
+> > > ,"Specimen_001_1-240_2_006.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",53.7,181
+> > > ,"Specimen_001_1-240_2_006.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.3,1
+,Specimen_001_1-240_3_007.fcs,,241044
+> ,Specimen_001_1-240_3_007.fcs/live,60.8,146624
+> > ,Specimen_001_1-240_3_007.fcs/live/BFP+,1.26,1843
+> > > ,Specimen_001_1-240_3_007.fcs/live/BFP+,8024,
+> > > ,Specimen_001_1-240_3_007.fcs/live/BFP+,517,
+> > > ,Specimen_001_1-240_3_007.fcs/live/BFP+,12213,
+> > > ,Specimen_001_1-240_3_007.fcs/live/BFP+,612,
+> > > ,Specimen_001_1-240_3_007.fcs/live/BFP+,9374,
+> > > ,Specimen_001_1-240_3_007.fcs/live/BFP+,488,
+> > > ,"Specimen_001_1-240_3_007.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.33,6
+> > > ,"Specimen_001_1-240_3_007.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",65,1198
+> > > ,"Specimen_001_1-240_3_007.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",34.5,635
+> > > ,"Specimen_001_1-240_3_007.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.22,4
+,Specimen_001_201FL_1_020.fcs,,161164
+> ,Specimen_001_201FL_1_020.fcs/live,63.9,102920
+> > ,Specimen_001_201FL_1_020.fcs/live/BFP+,3.42,3520
+> > > ,Specimen_001_201FL_1_020.fcs/live/BFP+,13490,
+> > > ,Specimen_001_201FL_1_020.fcs/live/BFP+,459,
+> > > ,Specimen_001_201FL_1_020.fcs/live/BFP+,19367,
+> > > ,Specimen_001_201FL_1_020.fcs/live/BFP+,548,
+> > > ,Specimen_001_201FL_1_020.fcs/live/BFP+,15951,
+> > > ,Specimen_001_201FL_1_020.fcs/live/BFP+,431,
+> > > ,"Specimen_001_201FL_1_020.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.057,2
+> > > ,"Specimen_001_201FL_1_020.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",54.3,1910
+> > > ,"Specimen_001_201FL_1_020.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",45.7,1607
+> > > ,"Specimen_001_201FL_1_020.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.028,1
+,Specimen_001_201FL_2_021.fcs,,235245
+> ,Specimen_001_201FL_2_021.fcs/live,63.4,149103
+> > ,Specimen_001_201FL_2_021.fcs/live/BFP+,1.8,2680
+> > > ,Specimen_001_201FL_2_021.fcs/live/BFP+,8781,
+> > > ,Specimen_001_201FL_2_021.fcs/live/BFP+,522,
+> > > ,Specimen_001_201FL_2_021.fcs/live/BFP+,12946,
+> > > ,Specimen_001_201FL_2_021.fcs/live/BFP+,624,
+> > > ,Specimen_001_201FL_2_021.fcs/live/BFP+,10100,
+> > > ,Specimen_001_201FL_2_021.fcs/live/BFP+,494,
+> > > ,"Specimen_001_201FL_2_021.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.19,5
+> > > ,"Specimen_001_201FL_2_021.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",65.3,1749
+> > > ,"Specimen_001_201FL_2_021.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",34.4,921
+> > > ,"Specimen_001_201FL_2_021.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.19,5
+,Specimen_001_201FL_3_022.fcs,,256194
+> ,Specimen_001_201FL_3_022.fcs/live,63,161463
+> > ,Specimen_001_201FL_3_022.fcs/live/BFP+,5.52,8907
+> > > ,Specimen_001_201FL_3_022.fcs/live/BFP+,7940,
+> > > ,Specimen_001_201FL_3_022.fcs/live/BFP+,459,
+> > > ,Specimen_001_201FL_3_022.fcs/live/BFP+,10906,
+> > > ,Specimen_001_201FL_3_022.fcs/live/BFP+,543,
+> > > ,Specimen_001_201FL_3_022.fcs/live/BFP+,8766,
+> > > ,Specimen_001_201FL_3_022.fcs/live/BFP+,431,
+> > > ,"Specimen_001_201FL_3_022.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.056,5
+> > > ,"Specimen_001_201FL_3_022.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",54.8,4881
+> > > ,"Specimen_001_201FL_3_022.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",45,4011
+> > > ,"Specimen_001_201FL_3_022.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.11,10
+,Specimen_001_204FL_1_023.fcs,,177762
+> ,Specimen_001_204FL_1_023.fcs/live,64.1,114019
+> > ,Specimen_001_204FL_1_023.fcs/live/BFP+,7.23,8241
+> > > ,Specimen_001_204FL_1_023.fcs/live/BFP+,8589,
+> > > ,Specimen_001_204FL_1_023.fcs/live/BFP+,284,
+> > > ,Specimen_001_204FL_1_023.fcs/live/BFP+,11995,
+> > > ,Specimen_001_204FL_1_023.fcs/live/BFP+,323,
+> > > ,Specimen_001_204FL_1_023.fcs/live/BFP+,9374,
+> > > ,Specimen_001_204FL_1_023.fcs/live/BFP+,270,
+> > > ,"Specimen_001_204FL_1_023.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.024,2
+> > > ,"Specimen_001_204FL_1_023.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",18.2,1501
+> > > ,"Specimen_001_204FL_1_023.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",81.7,6732
+> > > ,"Specimen_001_204FL_1_023.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.073,6
+,Specimen_001_204FL_2_024.fcs,,275028
+> ,Specimen_001_204FL_2_024.fcs/live,59.9,164773
+> > ,Specimen_001_204FL_2_024.fcs/live/BFP+,1.49,2447
+> > > ,Specimen_001_204FL_2_024.fcs/live/BFP+,7483,
+> > > ,Specimen_001_204FL_2_024.fcs/live/BFP+,532,
+> > > ,Specimen_001_204FL_2_024.fcs/live/BFP+,11232,
+> > > ,Specimen_001_204FL_2_024.fcs/live/BFP+,646,
+> > > ,Specimen_001_204FL_2_024.fcs/live/BFP+,8745,
+> > > ,Specimen_001_204FL_2_024.fcs/live/BFP+,495,
+> > > ,"Specimen_001_204FL_2_024.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.082,2
+> > > ,"Specimen_001_204FL_2_024.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",65.2,1596
+> > > ,"Specimen_001_204FL_2_024.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",34.5,845
+> > > ,"Specimen_001_204FL_2_024.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.16,4
+,Specimen_001_204FL_3_025.fcs,,183954
+> ,Specimen_001_204FL_3_025.fcs/live,62.6,115091
+> > ,Specimen_001_204FL_3_025.fcs/live/BFP+,1.39,1595
+> > > ,Specimen_001_204FL_3_025.fcs/live/BFP+,6528,
+> > > ,Specimen_001_204FL_3_025.fcs/live/BFP+,286,
+> > > ,Specimen_001_204FL_3_025.fcs/live/BFP+,10041,
+> > > ,Specimen_001_204FL_3_025.fcs/live/BFP+,346,
+> > > ,Specimen_001_204FL_3_025.fcs/live/BFP+,7478,
+> > > ,Specimen_001_204FL_3_025.fcs/live/BFP+,271,
+> > > ,"Specimen_001_204FL_3_025.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.063,1
+> > > ,"Specimen_001_204FL_3_025.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",22.8,364
+> > > ,"Specimen_001_204FL_3_025.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",76.5,1220
+> > > ,"Specimen_001_204FL_3_025.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.63,10
+,Specimen_001_240-500_1_011.fcs,,283800
+> ,Specimen_001_240-500_1_011.fcs/live,60.9,172697
+> > ,Specimen_001_240-500_1_011.fcs/live/BFP+,1.52,2622
+> > > ,Specimen_001_240-500_1_011.fcs/live/BFP+,11777,
+> > > ,Specimen_001_240-500_1_011.fcs/live/BFP+,1256,
+> > > ,Specimen_001_240-500_1_011.fcs/live/BFP+,17810,
+> > > ,Specimen_001_240-500_1_011.fcs/live/BFP+,1493,
+> > > ,Specimen_001_240-500_1_011.fcs/live/BFP+,13914,
+> > > ,Specimen_001_240-500_1_011.fcs/live/BFP+,1169,
+> > > ,"Specimen_001_240-500_1_011.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.038,1
+> > > ,"Specimen_001_240-500_1_011.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",99.8,2617
+> > > ,"Specimen_001_240-500_1_011.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",0.15,4
+> > > ,"Specimen_001_240-500_1_011.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0,0
+,Specimen_001_240-500_2_012.fcs,,391902
+> ,Specimen_001_240-500_2_012.fcs/live,65.6,257079
+> > ,Specimen_001_240-500_2_012.fcs/live/BFP+,2.33,5998
+> > > ,Specimen_001_240-500_2_012.fcs/live/BFP+,7200,
+> > > ,Specimen_001_240-500_2_012.fcs/live/BFP+,471,
+> > > ,Specimen_001_240-500_2_012.fcs/live/BFP+,10153,
+> > > ,Specimen_001_240-500_2_012.fcs/live/BFP+,545,
+> > > ,Specimen_001_240-500_2_012.fcs/live/BFP+,7704,
+> > > ,Specimen_001_240-500_2_012.fcs/live/BFP+,446,
+> > > ,"Specimen_001_240-500_2_012.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.033,2
+> > > ,"Specimen_001_240-500_2_012.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",58.3,3496
+> > > ,"Specimen_001_240-500_2_012.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",41.6,2495
+> > > ,"Specimen_001_240-500_2_012.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.083,5
+,Specimen_001_240-500_3_013.fcs,,208378
+> ,Specimen_001_240-500_3_013.fcs/live,69.6,145030
+> > ,Specimen_001_240-500_3_013.fcs/live/BFP+,2.4,3487
+> > > ,Specimen_001_240-500_3_013.fcs/live/BFP+,5492,
+> > > ,Specimen_001_240-500_3_013.fcs/live/BFP+,500,
+> > > ,Specimen_001_240-500_3_013.fcs/live/BFP+,7760,
+> > > ,Specimen_001_240-500_3_013.fcs/live/BFP+,592,
+> > > ,Specimen_001_240-500_3_013.fcs/live/BFP+,5790,
+> > > ,Specimen_001_240-500_3_013.fcs/live/BFP+,466,
+> > > ,"Specimen_001_240-500_3_013.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.17,6
+> > > ,"Specimen_001_240-500_3_013.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",61.8,2156
+> > > ,"Specimen_001_240-500_3_013.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",37.8,1317
+> > > ,"Specimen_001_240-500_3_013.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.23,8
+,Specimen_001_240-616_1_014.fcs,,247336
+> ,Specimen_001_240-616_1_014.fcs/live,64.3,159054
+> > ,Specimen_001_240-616_1_014.fcs/live/BFP+,2.92,4637
+> > > ,Specimen_001_240-616_1_014.fcs/live/BFP+,12450,
+> > > ,Specimen_001_240-616_1_014.fcs/live/BFP+,1036,
+> > > ,Specimen_001_240-616_1_014.fcs/live/BFP+,18039,
+> > > ,Specimen_001_240-616_1_014.fcs/live/BFP+,1226,
+> > > ,Specimen_001_240-616_1_014.fcs/live/BFP+,14659,
+> > > ,Specimen_001_240-616_1_014.fcs/live/BFP+,959,
+> > > ,"Specimen_001_240-616_1_014.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.043,2
+> > > ,"Specimen_001_240-616_1_014.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",98.5,4566
+> > > ,"Specimen_001_240-616_1_014.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",1.47,68
+> > > ,"Specimen_001_240-616_1_014.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.022,1
+,Specimen_001_240-616_2_015.fcs,,274340
+> ,Specimen_001_240-616_2_015.fcs/live,65.9,180669
+> > ,Specimen_001_240-616_2_015.fcs/live/BFP+,2.62,4733
+> > > ,Specimen_001_240-616_2_015.fcs/live/BFP+,7847,
+> > > ,Specimen_001_240-616_2_015.fcs/live/BFP+,537,
+> > > ,Specimen_001_240-616_2_015.fcs/live/BFP+,10916,
+> > > ,Specimen_001_240-616_2_015.fcs/live/BFP+,638,
+> > > ,Specimen_001_240-616_2_015.fcs/live/BFP+,8300,
+> > > ,Specimen_001_240-616_2_015.fcs/live/BFP+,500,
+> > > ,"Specimen_001_240-616_2_015.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.085,4
+> > > ,"Specimen_001_240-616_2_015.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",70.2,3323
+> > > ,"Specimen_001_240-616_2_015.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",29.6,1403
+> > > ,"Specimen_001_240-616_2_015.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.063,3
+,Specimen_001_240-616_3_016.fcs,,265138
+> ,Specimen_001_240-616_3_016.fcs/live,67.7,179417
+> > ,Specimen_001_240-616_3_016.fcs/live/BFP+,3.99,7160
+> > > ,Specimen_001_240-616_3_016.fcs/live/BFP+,5484,
+> > > ,Specimen_001_240-616_3_016.fcs/live/BFP+,449,
+> > > ,Specimen_001_240-616_3_016.fcs/live/BFP+,7533,
+> > > ,Specimen_001_240-616_3_016.fcs/live/BFP+,519,
+> > > ,Specimen_001_240-616_3_016.fcs/live/BFP+,5648,
+> > > ,Specimen_001_240-616_3_016.fcs/live/BFP+,422,
+> > > ,"Specimen_001_240-616_3_016.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.084,6
+> > > ,"Specimen_001_240-616_3_016.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",53.1,3801
+> > > ,"Specimen_001_240-616_3_016.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",46.8,3349
+> > > ,"Specimen_001_240-616_3_016.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.056,4
+,Specimen_001_500-616_1_017.fcs,,217924
+> ,Specimen_001_500-616_1_017.fcs/live,64.5,140637
+> > ,Specimen_001_500-616_1_017.fcs/live/BFP+,1.13,1583
+> > > ,Specimen_001_500-616_1_017.fcs/live/BFP+,12251,
+> > > ,Specimen_001_500-616_1_017.fcs/live/BFP+,810,
+> > > ,Specimen_001_500-616_1_017.fcs/live/BFP+,18705,
+> > > ,Specimen_001_500-616_1_017.fcs/live/BFP+,984,
+> > > ,Specimen_001_500-616_1_017.fcs/live/BFP+,14806,
+> > > ,Specimen_001_500-616_1_017.fcs/live/BFP+,748,
+> > > ,"Specimen_001_500-616_1_017.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.13,2
+> > > ,"Specimen_001_500-616_1_017.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",90.5,1433
+> > > ,"Specimen_001_500-616_1_017.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",9.16,145
+> > > ,"Specimen_001_500-616_1_017.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.19,3
+,Specimen_001_500-616_2_018.fcs,,268062
+> ,Specimen_001_500-616_2_018.fcs/live,66.4,178036
+> > ,Specimen_001_500-616_2_018.fcs/live/BFP+,4.5,8006
+> > > ,Specimen_001_500-616_2_018.fcs/live/BFP+,7251,
+> > > ,Specimen_001_500-616_2_018.fcs/live/BFP+,527,
+> > > ,Specimen_001_500-616_2_018.fcs/live/BFP+,10014,
+> > > ,Specimen_001_500-616_2_018.fcs/live/BFP+,613,
+> > > ,Specimen_001_500-616_2_018.fcs/live/BFP+,7628,
+> > > ,Specimen_001_500-616_2_018.fcs/live/BFP+,494,
+> > > ,"Specimen_001_500-616_2_018.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.062,5
+> > > ,"Specimen_001_500-616_2_018.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",67.6,5413
+> > > ,"Specimen_001_500-616_2_018.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",32.2,2580
+> > > ,"Specimen_001_500-616_2_018.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.1,8
+,Specimen_001_500-616_3_019.fcs,,326370
+> ,Specimen_001_500-616_3_019.fcs/live,67.3,219680
+> > ,Specimen_001_500-616_3_019.fcs/live/BFP+,2.27,4987
+> > > ,Specimen_001_500-616_3_019.fcs/live/BFP+,5806,
+> > > ,Specimen_001_500-616_3_019.fcs/live/BFP+,472,
+> > > ,Specimen_001_500-616_3_019.fcs/live/BFP+,8234,
+> > > ,Specimen_001_500-616_3_019.fcs/live/BFP+,560,
+> > > ,Specimen_001_500-616_3_019.fcs/live/BFP+,6115,
+> > > ,Specimen_001_500-616_3_019.fcs/live/BFP+,443,
+> > > ,"Specimen_001_500-616_3_019.fcs/live/BFP+/Q1: APC-A- , FITC-A+",0.16,8
+> > > ,"Specimen_001_500-616_3_019.fcs/live/BFP+/Q2: APC-A+ , FITC-A+",57.1,2847
+> > > ,"Specimen_001_500-616_3_019.fcs/live/BFP+/Q3: APC-A+ , FITC-A-",42.6,2122
+> > > ,"Specimen_001_500-616_3_019.fcs/live/BFP+/Q4: APC-A- , FITC-A-",0.2,10
